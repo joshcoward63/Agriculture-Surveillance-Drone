@@ -20,3 +20,4 @@ This project consists of a autonomous surveillance drone used to monitor plants 
 - plantVillage
 - plantaeK
 - plantNet
+- plantDoc
