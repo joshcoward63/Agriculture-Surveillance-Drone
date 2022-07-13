@@ -12,3 +12,10 @@ This project consists of a autonomous surveillance drone used to monitor plants 
  - Wireless charging landing pad
  - Autonomous flight 
  - Predetermined path following
+
+
+### Datasets to consider
+
+- plantLeaves
+- plantVillage
+- plantaeK
