@@ -21,3 +21,5 @@ This project consists of a autonomous surveillance drone used to monitor plants 
 - plantaeK
 - plantNet
 - plantDoc
+- https://garden.org/plants/group/ (garden plants)
+- deep_weeds 
